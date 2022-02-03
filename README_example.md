@@ -29,4 +29,4 @@ CODE : week3_kate_langwig
 
 DATA: bat_data.csv
 
-Here, I made graphs that explored such and such relationships. I am interested in such and such relationships because...
+Here, I put my data through tidyverse, read in my data, examined my data for mistakes (e.g. found capitilization errrors), used group by, and also mutated and summarised data set.
